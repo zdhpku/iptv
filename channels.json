@@ -1,34 +1,12 @@
 [
 	{
 		"id": "1",
-		"text": "4K频道",
+		"text": "所有频道",
 		"children": [
 			{
 				"text": "CCTV4K",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002264"
 			},
-			{
-				"text": "广东卫视4K",
-				"url": "https://www.gdtv.cn/tvChannelDetail/16"
-			},
-			{
-				"text": "深圳卫视4K",
-				"url": "https://www.sztv.com.cn/pindao/index.html?id=24725"
-			},
-			{
-				"text": "东方卫视4K",
-				"url": "https://live.kankanews.com/huikan/"
-			},
-			{
-				"text": "江苏卫视4K",
-				"url": "https://live.jstv.com/?channelId=676"
-			}
-		]
-	},
-	{
-		"id": "2",
-		"text": "央视频道",
-		"children": [
 			{
 				"text": "CCTV1综合",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600001859"
@@ -100,20 +78,14 @@
 			{
 				"text": "CCTV17农业农村",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600001810"
-			}
-		]
-	},
-	{
-		"id": "3",
-		"text": "卫视频道",
-		"children": [
+			},
 			{
 				"text": "北京卫视",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002309"
 			},
 			{
-				"text": "江苏卫视",
-				"url": "https://www.yangshipin.cn/tv/home?pid=600002521"
+				"text": "湖南卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002475"
 			},
 			{
 				"text": "东方卫视",
@@ -124,12 +96,8 @@
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002520"
 			},
 			{
-				"text": "湖南卫视",
-				"url": "https://www.yangshipin.cn/tv/home?pid=600002475"
-			},
-			{
-				"text": "湖北卫视",
-				"url": "https://www.yangshipin.cn/tv/home?pid=600002508"
+				"text": "江苏卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002521"
 			},
 			{
 				"text": "广东卫视",
@@ -146,6 +114,10 @@
 			{
 				"text": "海南卫视",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002506"
+			},
+			{
+				"text": "湖北卫视",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002508"
 			},
 			{
 				"text": "重庆卫视",
@@ -234,20 +206,40 @@
 		]
 	},
 	{
-		"id": "4",
-		"text": "直播频道",
+		"id": "2",
+		"text": "收藏频道",
 		"children": [
 			{
-				"text": "哔哩哔哩直播",
-				"url": "https://live.bilibili.com/"
+				"text": "CCTV4K",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002264"
 			},
 			{
-				"text": "英雄联盟直播",
-				"url": "https://live.bilibili.com/6"
+				"text": "CCTV5+体育赛事",
+				"url": "https://www.yangshipin.cn/tv/home?pid=600001817"
 			},
 			{
-				"text": "王者荣耀直播",
-				"url": "https://live.bilibili.com/55"
+				"text": "凤凰卫视资讯台",
+				"url": "https://www.fengshows.com/live/7c96b084-60e1-40a9-89c5-682b994fb680"
+			},
+			{
+				"text": "凤凰卫视中文台",
+				"url": "https://www.fengshows.com/live/f7f48462-9b13-485b-8101-7b54716411ec"
+			},
+			{
+				"text": "江苏卫视4K",
+				"url": "https://live.jstv.com/?channelId=676"
+			},
+			{
+				"text": "东方卫视4K",
+				"url": "https://live.kankanews.com/huikan?id=1"
+			},
+			{
+				"text": "广东卫视4K",
+				"url": "https://www.gdtv.cn/tvChannelDetail/16"
+			},
+			{
+				"text": "深圳卫视4K",
+				"url": "https://www.sztv.com.cn/pindao/index.html?id=24725"
 			}
 		]
 	}
